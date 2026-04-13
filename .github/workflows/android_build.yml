@@ -4,7 +4,6 @@ on:
   push:
     branches: [ main ]
 
-# ДОБАВЬ ЭТИ ТРИ СТРОКИ:
 defaults:
   run:
     working-directory: FamGram-Electron
